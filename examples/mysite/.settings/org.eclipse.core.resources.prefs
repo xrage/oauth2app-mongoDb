@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//apps/account/forms.py=utf-8
+encoding//apps/account/views.py=utf-8
+encoding//apps/api/views.py=utf-8
+encoding//apps/base/views.py=utf-8
+encoding//apps/client/views.py=utf-8
+encoding//apps/oauth2/views.py=utf-8
+encoding//oauth2app/authenticate.py=utf-8
+encoding//oauth2app/authorize.py=utf-8
+encoding//oauth2app/models.py=utf-8
+encoding//oauth2app/token.py=utf-8

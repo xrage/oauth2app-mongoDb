@@ -1,0 +1,1 @@
+[{"pk": "518c9cc088358f78cc00002d", "model": "oauth2app.accessrange", "fields": {"description": "", "key": "last_login"}}, {"pk": "518c9cc088358f78cc00003d", "model": "oauth2app.accessrange", "fields": {"description": "", "key": "date_joined"}}]

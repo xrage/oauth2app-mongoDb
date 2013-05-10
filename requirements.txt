@@ -1,0 +1,4 @@
+django-uni-form>=0.8.0
+djangotoolbox
+django-mongodb-engine
+pymongo
